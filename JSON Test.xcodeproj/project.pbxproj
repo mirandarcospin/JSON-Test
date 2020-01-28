@@ -14,6 +14,7 @@
 		EE6231C523E0C925007D2372 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE6231C323E0C925007D2372 /* Main.storyboard */; };
 		EE6231C723E0C926007D2372 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE6231C623E0C926007D2372 /* Assets.xcassets */; };
 		EE6231CA23E0C926007D2372 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE6231C823E0C926007D2372 /* LaunchScreen.storyboard */; };
+		EE6231D223E0CD32007D2372 /* DataGetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE6231D123E0CD32007D2372 /* DataGetter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EE6231C623E0C926007D2372 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE6231C923E0C926007D2372 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE6231CB23E0C927007D2372 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE6231D123E0CD32007D2372 /* DataGetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataGetter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				EE6231C623E0C926007D2372 /* Assets.xcassets */,
 				EE6231C823E0C926007D2372 /* LaunchScreen.storyboard */,
 				EE6231CB23E0C927007D2372 /* Info.plist */,
+				EE6231D123E0CD32007D2372 /* DataGetter.swift */,
 			);
 			path = "JSON Test";
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				EE6231BC23E0C925007D2372 /* AppDelegate.swift in Sources */,
 				EE6231BE23E0C925007D2372 /* SceneDelegate.swift in Sources */,
+				EE6231D223E0CD32007D2372 /* DataGetter.swift in Sources */,
 				EE6231C023E0C925007D2372 /* MasterViewController.swift in Sources */,
 				EE6231C223E0C925007D2372 /* DetailViewController.swift in Sources */,
 			);
